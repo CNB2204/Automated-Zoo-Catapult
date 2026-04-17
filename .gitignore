@@ -1,0 +1,19 @@
+# Arduino IDE 1.x and 2.x
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.a
+*.s
+*.pyc
+
+# Build folders
+build/
+bin/
+
+# Local libraries (don't upload copies of libraries)
+libraries/
+
+# macOS system files
+.DS_Store
